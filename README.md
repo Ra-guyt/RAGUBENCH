@@ -18,6 +18,6 @@ GPU専用メモリ(VRAM)がない場合や、空き容量が不足した場合�
 
 
 動作チェック済みブラウザ
-・Crome
-・
-・
+・Chrome
+・Edge
+・Firefox
